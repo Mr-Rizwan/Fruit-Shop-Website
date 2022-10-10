@@ -1,0 +1,138 @@
+body{
+    padding: 20px;
+}
+.a{
+  background-color: rgb(242, 242, 248);
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top:10px ;
+}
+
+.b{
+    text-decoration: none;
+    color: black;
+
+}
+.c{
+    text-decoration: none;
+    color: black;
+    margin: 8px;
+
+}
+.d{
+    background-color: rgb(254, 134, 7);
+    border: none;
+    padding: 10px;
+    color: white;
+}
+.e{
+    font-size: 45px;
+}
+.f{
+    background-color: black;
+    border: none;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+}
+
+.h{
+    /* display: block; */
+    margin-left: auto;
+    margin-right: 10px;
+    color: black;
+    padding-top: 40px;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid rgb(209, 201, 201);
+}
+.g{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.i{
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+.fruit-name{
+    text-align: center;
+    color: rgb(254, 134, 7);
+}
+.j{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.k{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.l{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.m{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 50%;
+}
+.n{
+    width: 100%;
+    display: inline-flex;
+    
+}
+.o{
+    width: 12%;
+   
+    justify-content: space-between;
+    margin-left: 8px;
+    margin-right: 10px;
+    color: black;
+    padding-top: 40px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+.p{
+    width: 12%;
+   
+    justify-content: space-between;
+    margin-left: 4px;
+    margin-right: 10px;
+    color: black;
+    padding-top: 40px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.q{
+    width: 15%;
+   
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 1px;
+    color: black;
+    padding-top: 40px;
+    
+    padding-left: 20px;
+    padding-right: 0px;
+}
+.r{
+    display: inline-flex;
+      
+    
+}
+.s{
+    padding-left: 5px;
+}
+.t{
+    background-color:rgb(242, 242, 248) ;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 20px;
+}
+
